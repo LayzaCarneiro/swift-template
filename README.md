@@ -1,0 +1,11 @@
+# Swift Collage
+Este projeto foi criado como um exercício pessoal para aprender e praticar o desenvolvimento com **SwiftUI** e **Xcode**, se trata de uma colagem digital que representa visualmente os meus interesses e personalidade, apresentando informações sobre quem eu sou e do que gosto.
+
+
+<h2> Resultado </h2>
+<div>
+  <img src="https://private-user-images.githubusercontent.com/110754646/317900115-955d3d00-208c-42d4-ad33-cdabde8a3b54.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2NjU4MjAsIm5iZiI6MTcxMTY2NTUyMCwicGF0aCI6Ii8xMTA3NTQ2NDYvMzE3OTAwMTE1LTk1NWQzZDAwLTIwOGMtNDJkNC1hZDMzLWNkYWJkZThhM2I1NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOFQyMjM4NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04OWZjMjQ1MWMzNTNlYzI2ZGQ2NTg5NGQzMTMwZDllZjA4M2YxMDEyNDlkZmFiYmI4YWY3NWNiNDRiYWUxZjE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.QRds2VJEwoA9mKBtTJQlbgRQ_WA6nTu3OcMERmnYFBg"
+       width=400px
+    >
+</div>
+
